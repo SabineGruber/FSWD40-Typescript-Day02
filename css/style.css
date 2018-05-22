@@ -1,0 +1,15 @@
+body {
+	background-color: grey !important;
+}
+
+#bg {
+	background-color:  white;
+}
+
+.nav-pills {
+	text-align: center;
+}
+
+#icon-nav {
+	width: 10%;
+}
